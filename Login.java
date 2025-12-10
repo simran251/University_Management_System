@@ -1,4 +1,3 @@
-//15 th video 10:18 University Management System TechCoder A.V
 package university.management.system;
 
 import java.awt.Color;
@@ -100,3 +99,4 @@ public static void main(String[] args) {
     new Login();
 }
 }
+
